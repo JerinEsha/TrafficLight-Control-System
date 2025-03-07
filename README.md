@@ -1,7 +1,4 @@
 # TrafficLight-Control-System
-# Smart Traffic Light System
-
-## Overview
 This is a simple yet intelligent traffic light system implemented using an Arduino. The system utilizes IR sensors to detect vehicles and dynamically adjust traffic light signals. Additionally, an LDR (Light Dependent Resistor) is used to control ambient street lighting based on the surrounding light conditions.
 
 ## Features
